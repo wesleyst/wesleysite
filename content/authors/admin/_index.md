@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Sou formado em engenharia de produção e apaixonado pela análise de dados.
 education:
   courses:
   - course: Engenharia de Produção
@@ -30,7 +29,7 @@ superuser: true
 title: Wesley Sodré
 ---
 
-Sou um engenheiro de produção formado na Universidade de Brasília. Eu amo a análise de dados e sempre busco desenvolver projetos que sejam úteis para a população em geral. Como principais ferramentas que utilizo, posso citar a linguagem de programação R e o PowerBI.
+Sou formado em engenharia de produção pela Universidade de Brasília. Eu amo a análise de dados e sempre busco desenvolver projetos que sejam úteis para a população em geral. Como principais ferramentas que utilizo, posso citar a linguagem de programação R e o PowerBI.
 
 Basicamente, meus projetos se relacionam principalmente com a área da educação e saúde. Tendo trabalhado como consultor no Ministério da Educação e Ministério da Saúde, esses dois setores passaram a ser foco do meu interesse por conta da grande quantidade de dados que possui e do impacto social que provocam.
 

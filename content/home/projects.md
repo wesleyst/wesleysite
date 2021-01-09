@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Educação
-    tag: "*"
+    tag: "Educação"
   - name: Saúde
-    tag: "*"
+    tag: "Saúde"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
