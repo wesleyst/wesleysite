@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiência
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,45 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Analista Júnior
+    company: EloGroup
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Brasília
+    date_start: '2018-10-01'
+    date_end: '2019-12-10'
     description: |2-
-        Responsibilities include:
+        Atividades:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Apoio na gestão de projetos nacionais do Ministério da Educação
+        * Mapeamento de Processos
+        * Desenvolvimento de dashboards de diagnóstico e monitoramento de processos
+        * Extração, tratamento, análise e visualização de dados
         
-  - title: Professor
-    company: University X
+  - title: Estagiário
+    company: Agência Nacional de Aviação Civil
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Brasília
+    date_start: '2018-08-01'
+    date_end: '2018-09-01'
+    description: |2-
+        Atividades:
+        
+        * Análise dos processos internos.
+        * Desenvolvimento de relatórios de monitoramento dos processos
+        * Desenvolvimento de consultas SQL na base de dados da agência
+        
+  - title: Consultor Administrativo
+    company: Enpresa Júnior Mecajun
+    company_url: ''
+    location: Brasília
+    date_start: '2014-06-01'
+    date_end: '2015-12-01'
+    description: |2-
+        Atividades:
+        
+        * Apresentação de relatórios financeiros.
+        * Desenvolvimento de planilhas financeiras
+        * Elaboração de contratos de prestação de serviços da empresa
+        * Elaboração de manuais dos processos internos
+        
 ---

@@ -3,47 +3,35 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Engenharia de Produção
+    institution: Universidade de Brasília 
+    year: 2019
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Análise de Dados
+- Business Inteligence
+- Gestão Estratégica
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name:
+  url:
+role:
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/wesleyst
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/wesley-teixeira/
 superuser: true
-title: Nelson Bighetti
+title: Wesley Sodré
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sou um engenheiro de produção formado na Universidade de Brasília. Eu amo a análise de dados e sempre busco desenvolver projetos que sejam úteis para a população em geral. Como principais ferramentas que utilizo, posso citar a linguagem de programação R e o PowerBI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Basicamente, meus projetos se relacionam principalmente com a área da educação e saúde. Tendo trabalhado como consultor no Ministério da Educação e Ministério da Saúde, esses dois setores passaram a ser foco do meu interesse por conta da grande quantidade de dados que possui e do impacto social que provocam.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Baixe meu {{< staticref "https://drive.google.com/file/d/1GcJaUunzJnluhkNMI0B_K_Lmi24REZmF/view?usp=sharing" "newtab" >}}currículo{{< /staticref >}}.
