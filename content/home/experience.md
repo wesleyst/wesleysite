@@ -21,7 +21,22 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Analista de Dados
+    company: Valora
+    company_url: ''
+    location: Rio de Janeiro
+    date_start: '2021-02-02'
+    date_end: ''
+    description: |2-
+        Atividades:
+        
+        * Criação e manutenção de dashboards (Power BI)
+        * Extração e tratamento de dados (R, Py, SQL e DAX)
+        * Criação de estratégias de precificação e apresentação dos resultados encontrados
+        * Automatização no tratamentos dos dados através do Lambda Functions (AWS)
+
   - title: Analista Júnior
     company: EloGroup
     company_url: ''
@@ -32,7 +47,7 @@ experience:
         Atividades:
         
         * Apoio na gestão de projetos nacionais do Ministério da Educação
-        * Mapeamento de Processos
+        * Mapeamento de Processos no Minitério da Saúde
         * Desenvolvimento de dashboards de diagnóstico e monitoramento de processos
         * Extração, tratamento, análise e visualização de dados
         
