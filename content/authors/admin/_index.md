@@ -31,6 +31,6 @@ title: Wesley Sodré
 
 Sou formado em engenharia de produção pela Universidade de Brasília. Eu amo a análise de dados e sempre busco desenvolver projetos que sejam úteis para a população em geral. Como principais ferramentas que utilizo, posso citar a linguagem de programação R e o PowerBI.
 
-Basicamente, meus projetos se relacionam principalmente com a área da educação e saúde. Tendo trabalhado como consultor no Ministério da Educação e Ministério da Saúde, esses dois setores passaram a ser foco do meu interesse por conta da grande quantidade de dados que possui e do impacto social que provocam.
+Busco criar projetos que abranjam várias áreas como a educação, saúde e comércio. Contudo, tenho particular interesse por projetos que envolvam a área da educação por conta da grande quantidade de dados que esse setor possui e do impacto social que ele provoca.
 
 {{< icon name="download" pack="fas" >}} Baixe meu {{< staticref "https://drive.google.com/file/d/1GcJaUunzJnluhkNMI0B_K_Lmi24REZmF/view?usp=sharing" "newtab" >}}currículo{{< /staticref >}}.
